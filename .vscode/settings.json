@@ -2,7 +2,9 @@
 	"cSpell.language": "en",
 	"cSpell.words": [
 		"editorconfig",
-		"markdownlint"
+		"markdownlint",
+		"unlist",
+		"Unlisting"
 	],
 
 	"markdownlint.config": {
